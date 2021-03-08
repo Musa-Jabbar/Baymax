@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-image: url(https://image-cdn.essentiallysports.com/wp-content/uploads/20200505183733/Cyberpunk-2077-No-Vacancy-e1570482474134.jpg);
+
+}
+
+header{
+    background-image: url(https://image-cdn.essentiallysports.com/wp-content/uploads/20200505183733/Cyberpunk-2077-No-Vacancy-e1570482474134.jpg);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header img{
+    border-radius: 300px;
+}
+
+h1,h2{
+    font-family: 'Archivo Black', sans-serif;
+font-family: 'Flavors', cursive;
+font-family: 'Orbitron', sans-serif;
+}
+
+.baymax{
+    border: 0;
+    box-shadow: 3px 3px grey;
+    padding: 10px 30px;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Flavors', cursive;
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+    background-color: lightgray;
+    border-radius: 30px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(199, 199, 199);
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 30px;
+    color: black;
+    margin: 40px 0 10px;
+}
+
+a{
+    color: #e70c19;
+}
+a:hover{
+    color: white;
+    background-color: #483a94;
+}
+/* Footer Styles */
+footer p{
+    margin: 0;
+}
+
+footer{
+    background-color:rgb(221, 221, 221); 
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
